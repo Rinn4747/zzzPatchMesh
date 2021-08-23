@@ -1,0 +1,6 @@
+[Module]
+Name=zzzPatchMesh
+Dependencies=minionlib,mlmgr
+Version=1
+Files=zzzPatchMesh.lua
+enabled=1
