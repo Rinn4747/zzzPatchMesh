@@ -50,7 +50,7 @@ function zzzPatchMesh.applyMesh()
 	ml_mesh_mgr.SetDefaultMesh(145, "Eastern Thanalan", enforce)
 	ml_mesh_mgr.SetDefaultMesh(146, "Southern Thanalan", enforce)
 	ml_mesh_mgr.SetDefaultMesh(147, "Northern Thanalan", enforce)
-	ml_mesh_mgr.SetDefaultMesh(178, "The Hourglass 2", true)
+	ml_mesh_mgr.SetDefaultMesh(178, "The Hourglass", true)
 	ml_mesh_mgr.SetDefaultMesh(210, "Heart of the Sworn", true)
 
 	ml_mesh_mgr.SetDefaultMesh(148, "Central Shroud", enforce)
